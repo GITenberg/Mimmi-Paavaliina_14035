@@ -20,6 +20,8 @@ creator:
     - http://www.kirjasto.sci.fi/lassila.htm
     - http://fi.wikipedia.org/wiki/Algot_Untola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14035#Mimmi-Paavaliina
 gutenberg_issued: '2004-11-13'
 gutenberg_type: Text
 identifiers:
